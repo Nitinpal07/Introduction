@@ -3,7 +3,7 @@
 Hi, I am [Nitin Pal](https://nitinpal07.github.io/) 👋
 
 - I develop web applications [projects](https://nitinpal07.github.io/).
-- I have keen interest in data structures and algorithms [Leetcode](https://leetcode.com/nitinpaldev/).
+- I have keen interest in data structures and algorithms [Leetcode](https://leetcode.com/nitinpal07/).
 - I'm a passionate [video creator](https://www.youtube.com/channel/UCsm1CHfixpbZ3sHYxARdJVw).
 
 Connect with me on: 
